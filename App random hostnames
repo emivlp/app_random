@@ -1,0 +1,2 @@
+Se generar un Dataset a partir de un algoritmo que genere nombres de servidores (hostnames) “random”.
+Luego con este Dataset se genera un Dataframe de Pandas y se visualizan graficos con Matplotlib.
